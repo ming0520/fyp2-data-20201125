@@ -1,0 +1,17 @@
+
+.gitattributes
+.ipynb_checkpoints/Audio Augmentation-checkpoint.ipynb
+.ipynb_checkpoints/audio_augmentation_prototype-checkpoint.ipynb
+.ipynb_checkpoints/clean_data-checkpoint.ipynb
+.ipynb_checkpoints/extract_mfcc-checkpoint.ipynb
+.ipynb_checkpoints/SplitAudio-checkpoint.ipynb
+.ipynb_checkpoints/
+.gitattributes
+.ipynb_checkpoints/SplitAudio-checkpoint.ipynb
+20201126-all-clean/
+20201126-all-clean-augmented/
+20201126-all-ori/
+F_0101_10y4m_1-000015-um/
+.ipynb_checkpoints/SplitAudio-checkpoint.ipynb
+/__pycache__
+.ipynb_checkpoints/SplitAudio-checkpoint.ipynb
